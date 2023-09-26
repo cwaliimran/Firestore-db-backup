@@ -1,0 +1,90 @@
+{
+  "__collections__": {
+    "birds": {
+      "1": { "id": "1", "title": "Layers", "__collections__": {} },
+      "2": { "id": "2", "title": "Broilers", "__collections__": {} },
+      "3": { "id": "3", "title": "Mixed", "__collections__": {} },
+      "4": { "id": "4", "title": "Others", "__collections__": {} }
+    },
+    "breeds": {
+      "1": { "id": "1", "title": "Kienyeji", "__collections__": {} },
+      "2": { "id": "2", "title": "Kuroiler", "__collections__": {} },
+      "3": { "id": "3", "title": "Kuroiler", "__collections__": {} },
+      "4": { "id": "4", "title": "Leghorn", "__collections__": {} },
+      "5": { "id": "5", "title": "Rhode Island Red", "__collections__": {} },
+      "6": { "id": "6", "title": "Kenbro", "__collections__": {} }
+    },
+    "customers": {
+      "1": { "name": "Default", "id": "1", "__collections__": {} }
+    },
+    "egg_reduction_types": {
+      "1": { "id": "1", "title": "Sold", "__collections__": {} },
+      "2": { "id": "2", "title": "Lost", "__collections__": {} },
+      "3": { "id": "3", "title": "Other", "__collections__": {} }
+    },
+    "egg_types": {
+      "1": { "id": "1", "title": "Good", "__collections__": {} },
+      "2": { "id": "2", "title": "Small", "__collections__": {} },
+      "3": { "id": "3", "title": "Damaged", "__collections__": {} }
+    },
+    "expense_categories": {
+      "1": { "id": "1", "title": "Utilities", "__collections__": {} },
+      "2": { "id": "2", "title": "Electricity", "__collections__": {} },
+      "3": { "id": "3", "title": "Labor", "__collections__": {} },
+      "4": { "id": "4", "title": "Vaccine", "__collections__": {} },
+      "5": { "id": "5", "title": "Medication", "__collections__": {} },
+      "6": { "id": "6", "title": "Feed", "__collections__": {} },
+      "7": { "id": "7", "title": "Flock", "__collections__": {} },
+      "8": { "id": "8", "title": "Transport", "__collections__": {} },
+      "9": { "id": "9", "title": "Flock Lost", "__collections__": {} },
+      "10": { "id": "10", "title": "Flock Death", "__collections__": {} },
+      "11": { "id": "11", "title": "Other", "__collections__": {} }
+    },
+    "flock_batches": {
+      "1": {
+        "date": "05/03/2023",
+        "flock_source_type": "3",
+        "price": "0.0",
+        "qty": "0",
+        "bird_type": "1",
+        "id": "1",
+        "title": "General Flock",
+        "breed_type": "1",
+        "__collections__": {}
+      }
+    },
+    "flock_source": {
+      "1": { "id": "1", "title": "Purchased", "__collections__": {} },
+      "2": { "id": "2", "title": "Hatched on farm", "__collections__": {} },
+      "3": { "id": "3", "title": "Other", "__collections__": {} }
+    },
+    "income_categories": {
+      "1": { "id": "1", "title": "Default", "__collections__": {} }
+    },
+    "users": {
+      "j4MeDO8jVLVtTN49f3013PObdr83": {
+        "farmName": "Mazao Farm",
+        "createdAt": "1695266289856",
+        "firstName": "Mazao",
+        "lastName": "Africa",
+        "phoneNumber": "",
+        "gender": "Male",
+        "location": "Nakuru Kenya",
+        "id": "j4MeDO8jVLVtTN49f3013PObdr83",
+        "accessToken": "",
+        "email": "mazaoafricatech@gmail.com",
+        "deviceToken": "fAniMve1QZ-jrUNx8WOjqU:APA91bEra82W9dPLL789CvZCb5RC2JD_JnTgeZwsTLfwyryz5tjHWev7LfUD7hqgR_qGvBeqiRmnPGg-9Sxgf5qFHk6XmYvFYnNJ78hM_3Ag-KBNN6Fpa5oiegsp_vCBPL8qnyfUpEHz",
+        "updatedAt": "1695266289856",
+        "__collections__": {}
+      }
+    },
+    "vaccination_types": {
+      "1": { "id": "1", "title": "Mareks", "__collections__": {} },
+      "2": { "id": "2", "title": "Gumboro", "__collections__": {} },
+      "3": { "id": "3", "title": "Newcastle Disease", "__collections__": {} },
+      "4": { "id": "4", "title": "Fowl Pox", "__collections__": {} },
+      "5": { "id": "5", "title": "De-worming", "__collections__": {} }
+    },
+    "vendors": { "1": { "name": "Default", "id": "1", "__collections__": {} } }
+  }
+}
